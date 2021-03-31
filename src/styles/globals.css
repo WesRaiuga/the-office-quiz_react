@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'American Typewriter Medium BT';
+  src: local('American Typewriter Medium BT'), url(../../public/fonts/american-typewriter-medium-bt.ttf) format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --header-outer-height: 120px;
+  --header-inner-height: 70px;
+  --header-height-difference: calc(
+      var(--header-outer-height) - var(--header-inner-height)
+  );
+  --header-bg: #304050;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  color: #ddd;
+  background: var(--content-bg);
+  background: lightgrey
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}

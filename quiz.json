@@ -1,0 +1,209 @@
+{
+  "name": "The Office",
+  "questions": [
+    {
+      "description": "Qual é a mentira?",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "name": "Pilot (An American Workplace)"
+      },
+      "alternatives": [
+        {
+          "description": "Jim colocou o grampeador do Dwight dentro de uma gelatina",
+          "isCorrect": false
+        },
+        {
+          "description": "Todos trabalham na Dunder Mifflin",
+          "isCorrect": false
+        },
+        {
+          "description": "Michael tem uma caneca escrito 'Greatest Boss Ever'",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "A caneca do Michael diz: World's Best Boss"
+    },
+    {
+      "description": "Qual segredo não é verdade?",
+      "episode": {
+        "season": 2,
+        "number": 13,
+        "name": "The Secret"
+      },
+      "alternatives": [
+        {
+          "description": "Jim é apaixonado pela Pam",
+          "isCorrect": false
+        },
+        {
+          "description": "Dwight e Angela têm um relacionamento secreto",
+          "isCorrect": false
+        },
+        {
+          "description": "Michael está escondendo da Pam sobre Jim e Oscar estarem saindo",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "Michael está, na verdade, escondendo do Dwight sobre ele e o Jim estarem saindo"
+    },
+    {
+      "description": "Qual fato não aconteceu?",
+      "episode": {
+        "season": 2,
+        "number": 22,
+        "name": "Casino Night"
+      },
+      "alternatives": [
+        {
+          "description": "Michael tem seu primeiro encontro com Carol",
+          "isCorrect": false
+        },
+        {
+          "description": "Pam finalmente se declara para Jim, mas leva um fora",
+          "isCorrect": true
+        },
+        {
+          "description": "Carol encontra Jan pela primeira vez",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "No final da 2ª temporada, Jim se declara para Pam, mas leva um fora"
+    },
+    {
+      "description": "Qual evento não aconteceu?",
+      "episode": {
+        "season": 3,
+        "number": 1,
+        "name": "Gay Witch Hunt"
+      },
+      "alternatives": [
+        {
+          "description": "Michael beija Oscar",
+          "isCorrect": false
+        },
+        {
+          "description": "Pam se casa com Roy",
+          "isCorrect": true
+        },
+        {
+          "description": "Jim vai pra filial de Stamford",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Ao invés de casar com Roy, nesse episódio a Pam termina com ele"
+    },
+    {
+      "description": "Qual fato a seguir, sobre o jantar dado pelo Michael, é mentira?",
+      "episode": {
+        "season": 4,
+        "number": 13,
+        "name": "Dinner Party"
+      },
+      "alternatives": [
+        {
+          "description": "Jim e Pam foram o primeiro casal a chegar",
+          "isCorrect": false
+        },
+        {
+          "description": "Angela foi a única pessoa que não bebeu na festa",
+          "isCorrect": false
+        },
+        {
+          "description": "Jim concordou em investir dinheiro no negócio da Jan",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "Na verdade, foi o Andy quem concordou em investir",
+      "bgColor": "#304050"
+    },
+    {
+      "description": "?",
+      "episode": {
+        "season": 0,
+        "number": 0,
+        "name": ""
+      },
+      "alternatives": [
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "description": "?",
+      "episode": {
+        "season": 0,
+        "number": 0,
+        "name": ""
+      },
+      "alternatives": [
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "description": "?",
+      "episode": {
+        "season": 0,
+        "number": 0,
+        "name": ""
+      },
+      "alternatives": [
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "description": "?",
+      "episode": {
+        "season": 0,
+        "number": 0,
+        "name": ""
+      },
+      "alternatives": [
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": false
+        },
+        {
+          "description": "",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+.questionContainer {
+  background: rgba(48, 64, 80, 1);
+  max-width: 500px;
+  padding: 10px 0;
+  margin: 2rem 1rem;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+}
+
+.questionContainer p {
+  margin: 0 10px;
+}
+
+.questionContainer p:first-child {
+  font-size: 0.8rem;
+  color: rgb(100, 100, 100);
+}
+
+.questionContainer h1 {
+  font-size: 1.25rem;
+  margin: 20px;
+}
+
+.questionContainer div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 10px;
+}
+
+.questionContainer div button {
+  color: #000;
+  min-height: 50px;
+  width: 100%;
+  padding: 10px 8px;
+  border: none;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  letter-spacing: 0.4px;
+  outline: transparent;
+}
+
+.questionContainer div:last-child {
+  margin: 0 20px;
+}
+
+.questionContainer div:last-child p {
+  margin: 0;
+  text-align: left;
+}
